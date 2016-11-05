@@ -15,7 +15,5 @@ Scanner sc=new Scanner(System.in);
        {
 System.out.println("NOt a valid Integer of String ");
        }
-
-
     }
 }
