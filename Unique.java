@@ -20,5 +20,6 @@ class Unique
                 System.exit(0);
             }
         }
+        System.out.println("Unique elemnt does not exist");
     }
 }
